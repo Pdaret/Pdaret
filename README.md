@@ -22,7 +22,7 @@
 - 👀 I’m interested in Programmig,Security,Al,Network,I’m a Geek
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mr.srezaei@outlook.com -- TeleGram:  @Genicurios10101100101
+- 📫 How to reach me mr.srezaei@outlook.com -- TeleGram:  @Pdaret1
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
