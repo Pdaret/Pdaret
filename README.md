@@ -38,8 +38,8 @@
 </p>
 
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sifouo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/Sifouo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Sifouo/github-stats-transparent/output/generated/languages.svg)
