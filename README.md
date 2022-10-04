@@ -65,13 +65,13 @@
 
 -->
 
-### 🎧 Spotify Playing
+### <img height="35" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Pepe.gif"> Spotify Playing
 
 ![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/natemoo-re.svg)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 
-### :dart: Weekly Fuck The Code
+### <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Contact_Me.gif"> Weekly Fuck The Code
 
 <!--START_SECTION:waka-->
 
