@@ -104,7 +104,7 @@ Code Editor：v2code
 
 
 <!--START_SECTION:activity-->
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Sifouo/Sifouo/8835722dfe30aa7d3c7349007fe5cbe18124e02d/github-contribution-grid-snake.svg)
 <!--END_SECTION:activity-->
 
 
