@@ -95,7 +95,7 @@ Code Editor：v2code
 
 - 📫 How to reach me:
     - :octocat: [Github@Pdaret](https://github.com/Pdaret)
-    - :email: [Sifouo@gmail.com](mailto:mr.srezaei@outlook.com)
+    - :email: [Pdaret@gmail.com](mailto:mr.srezaei@outlook.com)
     <!--- :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)-->   
     - :camera:[Instagram@DrMossadegh](https://www.instagram.com/DrMossadegh/)
     - :bird:[twitter@Sifouo](https://twitter.com/Sifouo/)
