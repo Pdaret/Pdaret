@@ -110,7 +110,7 @@ Code Editor：v2code
 
 
 <!--START_SECTION:activity-->
-![Snake animation](https://github.com/Pdaret/Pdaret/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Pdaret/Pdaret/blob/output/github-contribution-grid-snake-dark.svg)
 <!--END_SECTION:activity-->
 
 
