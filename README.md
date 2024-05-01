@@ -45,6 +45,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pdaret&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Roadmaps](https://api.roadmap.sh/v1-badge/wide/65d25dd3cba7f7159fda8ae7?variant=dark&roadmaps=golang%2Cai-data-scientist%2Cmlops%2Cfull-stack)
 
 
 ![](https://raw.githubusercontent.com/Pdaret/github-stats-transparent/output/generated/overview.svg)
