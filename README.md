@@ -34,7 +34,7 @@
 <h3 align="center">A Golang Developer and Computer Science Student from Iran ...</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href ="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a><a href="https://docs.docker.com/compose/" target="_blank"><img src="https://github.com/docker/compose/raw/v2/logo.png?raw=true" width="45" height="45"></a> <a href="https://www.markdownguide.org/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="markdown" width="40" height="40"/> </a> <a href="https://www.latex-project.org/" targer="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" width="60" height="40"/> </a> <a href="https://julialang.org/" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="40" height="40"/> </a> <a href="https://wandb.ai/site" target="_blank"> <img src="https://site.wandb.ai/wp-content/uploads/2023/05/63bee4a1231a4318b921d672_logo.svg" alt="wandb" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="redis" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href ="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.markdownguide.org/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="markdown" width="40" height="40"/> </a> <a href="https://www.latex-project.org/" targer="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" width="60" height="40"/> </a> <a href="https://julialang.org/" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="40" height="40"/> </a> <a href="https://wandb.ai/site" target="_blank"> <img src="https://site.wandb.ai/wp-content/uploads/2023/05/63bee4a1231a4318b921d672_logo.svg" alt="wandb" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="redis" width="40" height="40"/> </a>
 </p>
 
 
@@ -43,10 +43,10 @@
 
 
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Pdaret&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pdaret&show_icons=true&theme=radical)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65d25dd3cba7f7159fda8ae7?variant=dark&roadmaps=ai-data-scientist%2Cgolang%2Cbackend%2Cmlops)](https://roadmap.sh)
 
+[![pdaret's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=pdaret&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/Pdaret/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Pdaret/github-stats-transparent/output/generated/languages.svg)
@@ -74,7 +74,7 @@
 
 ### <img height="35" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Pepe.gif"> Spotify Playing
 
-![spotify-github-profile](https://github.com/kittinan/spotify-github-profile/blob/master/img/natemoo-re.svg)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l2xc67b2whb7pjfnefykogvhpy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 
@@ -82,11 +82,11 @@
 
 <!--START_SECTION:waka-->
 
-```text
+<!--```text
 GO     30 mins         ██████████████████████▓░░   90.41 %
 BASH   50 mins         ████████████░░░░░░░░░░░░░   49.59 %
 Python 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-```
+```-->
 
 <!--END_SECTION:waka-->
 
